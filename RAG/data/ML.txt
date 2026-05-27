@@ -1,0 +1,47 @@
+Machine Learning, Data Science & AI
+
+1. What is Machine Learning?
+Machine Learning (ML) is a branch of Artificial Intelligence where systems learn patterns from data and improve automatically without being explicitly programmed.
+
+2. Types of Machine Learning
+- Supervised Learning: Uses labeled data (e.g., spam detection)
+- Unsupervised Learning: Finds patterns in unlabeled data (e.g., clustering)
+- Reinforcement Learning: Learning through rewards and penalties
+
+3. What is Data Science?
+Data Science combines statistics, programming, and domain knowledge to extract insights from data.
+
+Key steps:
+- Data collection
+- Data cleaning
+- Data analysis
+- Model building
+- Visualization
+
+4. What is Artificial Intelligence?
+AI refers to machines that can simulate human intelligence such as reasoning, learning, and decision-making.
+
+5. Common Tools
+- Python
+- NumPy, Pandas
+- Scikit-learn
+- TensorFlow / PyTorch
+- Matplotlib / Seaborn
+
+6. Simple ML Workflow
+1. Collect data
+2. Preprocess data
+3. Split dataset
+4. Train model
+5. Evaluate model
+6. Improve and deploy
+
+7. Example Use Cases
+- Recommendation systems (Netflix, YouTube)
+- Voice assistants (Siri, Alexa)
+- Image recognition
+- Fraud detection
+- Self-driving cars
+
+8. Why Learn It?
+ML, Data Science, and AI are among the most in-demand skills in the tech industry today.

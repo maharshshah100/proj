@@ -1,0 +1,39 @@
+Python Introduction
+
+1. What is Python?
+Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in web development, data science, automation, AI, and more.
+
+2. Basic Features
+- Easy to learn and write
+- Interpreted language (no compilation needed)
+- Dynamically typed
+- Large standard library
+- Supports multiple programming paradigms (procedural, object-oriented, functional)
+
+3. Basic Syntax Example
+print("Hello, World!")
+
+4. Variables and Data Types
+x = 10          # integer
+y = 3.14        # float
+name = "Alice"  # string
+is_valid = True # boolean
+
+5. Control Flow
+if x > 5:
+    print("Greater than 5")
+else:
+    print("Less or equal to 5")
+
+6. Loops
+for i in range(5):
+    print(i)
+
+7. Functions
+def greet(name):
+    return "Hello " + name
+
+print(greet("John"))
+
+8. Why Python?
+Python is widely used because it is beginner-friendly and extremely powerful in real-world applications.
